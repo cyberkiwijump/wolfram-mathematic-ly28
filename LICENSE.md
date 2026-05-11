@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Wolfram Mathematica for macOS script with new Wolfram Mathematica for macOS Script | interactive-dashboards + cloud-sync. Featuring interactive-dashboards and
 
 
 
